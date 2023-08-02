@@ -12,7 +12,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Command to Run Tests in Django:
+## Command to Run Tests:
 
 ```bash
 python manage.py test
