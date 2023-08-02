@@ -18,7 +18,6 @@ python manage.py runserver
 python manage.py test
 ```
 
-#### There is a File "sessionauth.postman_collection" which has Postman Collection You can import this file in your postman to test this API
 ## Run Tests with Coverage:Run Tests with Coverage:
 
 ```bash
