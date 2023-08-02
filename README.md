@@ -18,7 +18,7 @@ python manage.py runserver
 python manage.py test
 ```
 
-## Run Tests with Coverage:Run Tests with Coverage:
+## Run Tests with Coverage:
 
 ```bash
 coverage run --source='account' manage.py test 
